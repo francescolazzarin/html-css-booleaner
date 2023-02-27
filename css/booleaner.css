@@ -20,3 +20,14 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+#intestazione_tabella{
+    background-color:rgb(62, 225, 225);
+    text-align: left;
+}
+.sfondo{
+    background-color:rgb(18, 255, 255) ;
+    text-align: left;
+}
+.centrato{
+    text-align: center;
+}
